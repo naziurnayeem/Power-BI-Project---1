@@ -3,14 +3,14 @@ Blinkit Data Analysis using Power BI
 
  Insights from the Dashboard:
 
- Fat Content Contribution
-·       Low Fat items generated $425K in sales.
-·       Regular items performed even better with $776K, showing higher customer preference.
+Fat Content Contribution:
+1. Low Fat items generated $425K in sales.
+2. Regular items performed even better with $776K, showing higher customer preference.
 
-Sales by Item Type
-·       Top categories: Fruits & Vegetables ($0.18M) and Snack Foods ($0.18M).
-·       Moderate sales: Household ($0.14M) and Frozen Foods ($0.12M).
-·       Lowest sales: Starchy Foods and Breakfast items (<$0.02M).
+Sales by Item Type:
+1. Top categories: Fruits & Vegetables ($0.18M) and Snack Foods ($0.18M).
+2. Moderate sales: Household ($0.14M) and Frozen Foods ($0.12M).
+3. Lowest sales: Starchy Foods and Breakfast items (<$0.02M).
 
 Sales by Outlet Size
 ·       Medium outlets dominate with $507.9K sales.
